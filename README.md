@@ -1,5 +1,5 @@
 # The Python 'chat bot'
-####### *Disclaimer:*  This is not a chat bot in it's full capability and is just a trial of the data-structures and algorithms I have learnt.
+###### *Disclaimer:*  This is not a chat bot in it's full capability and is just a trial of the data-structures and algorithms I have learnt.
 
 As far as I can simplify it. This is a use of some of the more common features of Python's many data-structures in order to build a program that has set answers to user question and as an added bonus lets the user train it by supplying it with sample 'ideal' answers to it's questions.
 
