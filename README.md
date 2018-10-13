@@ -14,6 +14,6 @@ This repo has 6 files along with the README you are viewing. They are:
 
 ### Ideal Run
 When the program is run perfectly, you can expect the following result
-[!The perfect running demo of bot.py](./Screenshot.png)
+![The perfect running demo of bot.py](./Screenshot.png)
 
 I have uploaded this project here to give you an idea as to how I go about my development process. Make yourself a help and don't copy this code for the purpose of submission. You will be plaguiarising my work. Also a piece of advice, always mention the author, even if you don't copy it completely. ;)
